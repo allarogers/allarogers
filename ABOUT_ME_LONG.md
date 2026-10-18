@@ -1,4 +1,6 @@
-# About me, the long version
+# About me, the long version 
+
+_(also the version with no AI tweaks for anyone who misses real-human writing ;) )_
 
 **TLDR:** I am a software engineer 🧑‍💻 turned product manager 🤹 on a career break ⏸️ to reset, get back to my geeky roots, and restock on some basic knowledge.
 
@@ -8,15 +10,15 @@ In my mind, it's the best time (probably in history) to truly and consciously de
 
 As a millennial, I belong to one of the fortunate generations that had a childhood mostly free of electronics and became completely dependent on them as young adults (who remembers printing MapQuest directions? ✋).
 
-🌱 I was 6 years old when I got to play my first computer game. PCs were slowly integrated into our lives, and I grew up with the evolution: first computer game at 6, first AOL account at 13, first advice from dad "just google 'bubble sort alg' and get some sleep!" when I ambitiously took 6 classes in my first semester of college (I hope my comp science teacher doesn't read this and revert that A ;). Having both parents as software engineers likely helped me feel that the computer evolution was naturally happening to make life more convenient one 'byte' at a time 🍽️ (I had to go there! I promise no more corny jokes!).
+🌱 I was 7 years old when I got to play my first computer game.  My mom took me and my brother to her office and introduced us to PacMan, Tetris, [Sokoban](https://en.wikipedia.org/wiki/Sokoban) (my favorite), [Alley Cat](https://youtu.be/jK9kfhOJ9uA?si=wycdKdjj7LmSVh-F), and [Nightmare on Elm's street](https://www.youtube.com/watch?v=CLsmjwCmm-o)(too scary for me, though I really enjoyed finding the house with lights on!) But I digress... PCs were slowly integrated into our lives, and I grew up with the evolution: first computer game at 7, first AOL account at 13, first programming class at 18 (along with my dad's advice "just google 'bubble sort alg' and get some sleep!" when I ambitiously took six classes in my first semester of college - I hope my comp science teacher doesn't read this and revert that A ;). Having both parents as software engineers likely helped me feel that the computer evolution was naturally happening to make life more convenient one 'byte' at a time 🍽️ (I had to go there! I promise no more corny jokes!).
 
-I have a different sense from AI: I'm curious and eager to keep up, but it almost seems like a full-time job. When I first decided to learn, I was overwhelmed: LLMs, RAG, MCPs etc. So many acronyms. I kept asking my LLM to draw me an AI landscape to find some thread to follow, some starting place beyond switching completely to LLMs for all my search needs and random questions (oh, the 5-year-old in all of us is just having a field day right now!). That landscape is here: [AI Landscape](#).
+I have a different sense from AI: I'm curious and eager to keep up, but it almost seems like a full-time job. When I first decided to learn, I was overwhelmed: LLMs, RAG, MCPs etc. So many acronyms. I kept asking my LLM to draw me an AI landscape to find some thread to follow, some starting place beyond switching completely to LLMs for all my search needs and random questions (oh, the 5-year-old in all of us is just having a field day right now!). 
 
 But I digress, this is about me, not about my [AI journey](#), which deserves its own space.
 
 ## How I ended up in software
 
-A software engineer by training, I will come clean: I never intended to stay there. I went into software because I needed to pick a major and I was getting a little tired of being left out of my family dinner conversations. Imagine my two software engineer parents, and my freshly baked software engineer brother after a workday. Since I didn't feel particularly strongly about any major, I said "why not? It seems interesting enough!"
+A software engineer by training, I will come clean: I never intended to stay there. I went into software because I needed to pick a major and I was getting a little tired of being left out of my family dinner conversations. Between my SAP Consultant and IT Manager mom, Software Architect dad, and my freshly baked Software Engineer brother, you can imagine the conversations became a bit hard to follow for a high school kid 😉. Since I didn't feel particularly strongly about any major, I said "why not? It seems interesting enough!"
 
 I was surprised to find that I really enjoyed it. Even more so, I enjoyed thinking through software design and optimizing it. Not at an algorithm level (I can appreciate it and I love some elegant code, but my brain does not work this way), but at the big picture: defining the software components and determining how the different pieces should work together. Hold that thought, we will come back to it.
 
@@ -56,7 +58,7 @@ It's not what I thought it would be. I did not suddenly become unable to do anyt
 
 ## So here I am
 
-I'm taking a career break to learn and recharge. At first I went heads down on learning about personalized medicine and career growth, but I realized I needed to step back and reset. There are huge opportunities for AI in everything. I continue to deeply care about improving healthcare through software that improves providers' workflow and access to the newest technologies. I have a few ideas brewing in that department, and I hope to apply them to my next role.
+I'm taking a career break to learn and recharge. For the first part of my career, I was on a mission to find the answer to my question and to grow professionally - no breaks, no time to reflect.  I am taking that time now. There are huge opportunities for AI in everything. I continue to deeply care about improving healthcare through software that improves providers' workflow and access to the newest technologies. I have a few ideas brewing in that department, and I hope to apply them to my next role.
 
 In the meantime, I will tweak, learn, take time for myself, design and build shelving, cook with my kids, weight train, join Toastmasters, run an executive communication group, and volunteer as a program manager for a social community of women in tech. It's a busy schedule, but I no longer second-guess myself. I am full of ideas and energy to make them happen!
 
