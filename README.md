@@ -78,10 +78,11 @@ Mini projects live in this repo.
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <a href="https://github.com/allarogers/job-search-skills">
       <img src="assets/icon-jobsearch.svg" width="56" align="left" alt="">
-      <b>AI Job Search Skills</b><br>
+      </a>
+      <b><a href="https://github.com/allarogers/job-search-skills">AI Job Search Skills</a></b><br>
       <sub>A skill toolkit to help with job searching.</sub>
-      <!-- TODO: link to the project folder -->
     </td>
     <td width="50%" valign="top">
       <img src="assets/icon-receipts.svg" width="56" align="left" alt="">
