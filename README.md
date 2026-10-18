@@ -5,11 +5,11 @@
 <p align="center">
   <img alt="Focus: healthcare genomics" src="https://img.shields.io/badge/focus-healthcare%20genomics-0d9488?style=flat-square">
   <img alt="Now: learning AI" src="https://img.shields.io/badge/now-learning%20AI-d97706?style=flat-square">
-  <img alt="Next: director-level product" src="https://img.shields.io/badge/next-director--level%20product-7c3aed?style=flat-square">
+  <img alt="Next: strategic product role" src="https://img.shields.io/badge/next-strategic%20product%20role-7c3aed?style=flat-square">
 </p>
 
-> [!NOTE]
-> **TL;DR:** I spent seven years building the software that runs a genomics lab, from the first Prospera launch to a multi-year rebuild of the core LIMS. Now I'm on a deliberate break to go past "ask the LLM" and learn how models, retrieval (RAG) and tool protocols (MCP) fit together in real systems. **This repo is where I build and document that.** Next up: a director-level product role where healthcare workflow and AI meet.
+
+### I spent seven years building the software that runs a genomics lab, from the first Prospera launch to a multi-year rebuild of the core LIMS. Now I'm on a deliberate break to go past "ask the LLM" and learn how models, retrieval (RAG) and tool protocols (MCP) fit together in real systems. **This repo is where I build and document that.** Next up: a strategic product role where I can bring my technical, product, leadership and AI skills together. It's about the work and the impact, not the title.
 
 <br>
 
@@ -114,10 +114,12 @@ Mini projects live in this repo.
 
 ## 🎯 Where I'm headed
 
-<img src="assets/venn.svg" width="100%" alt="Venn diagram: a director-level product role where healthcare workflow and AI overlap, without adding provider workload.">
+<img src="assets/venn.svg" width="100%" alt="Venn diagram: a strategic role at the overlap of technical, product, leadership and AI skills, focused on organizational impact. Open to Director, Principal, Lead and Staff PM roles.">
+
+**It's not about the title, it's about the work.** I'm looking for a strategic role, whether that's Director, Principal, Lead or Staff PM, where I can apply my full background: technical, product, leadership, and my newly learned AI skills. I don't shy away from hands-on work; what I care about is organizational impact.
 
 I care about getting new technology into the hands of providers **without adding to their workload**. I have a few ideas brewing in that space and I want to build them inside a team that ships.
 
 <p align="center">
-  <a href="ABOUT_ME_LONG.md"><b>📖 Read the long version, including the burnout part →</b></a>
+  <a href="ABOUT_ME_LONG.md"><b>📖 Read the long version →</b></a>
 </p>

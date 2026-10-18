@@ -1,18 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 264" width="1000" height="264" role="img" aria-label="Next role: where healthcare workflow and AI meet">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 340" width="1000" height="340" role="img" aria-label="Next role: a strategic role that combines technical, product, leadership and AI skills, with organizational impact; open to director, principal, lead and staff PM roles">
 <style>
 text{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif}
 .t{fill:#1f2328} .m{fill:#59636e} .ln{stroke:#d1d9e0} .card{fill:#f6f8fa;stroke:#d1d9e0} .panel{fill:#ffffff;stroke:#d1d9e0}
 </style>
-<rect x="1" y="1" width="998" height="262" rx="14" class="panel" stroke-width="1.5"/>
-<g transform="translate(0 12)">
-<circle cx="440" cy="120" r="116" fill="#2563eb" fill-opacity=".16" stroke="#2563eb" stroke-width="2"/>
-<circle cx="560" cy="120" r="116" fill="#d97706" fill-opacity=".16" stroke="#d97706" stroke-width="2"/>
-<text x="378" y="112" text-anchor="middle" font-size="17" font-weight="700" fill="#2563eb">Healthcare</text>
-<text x="378" y="134" text-anchor="middle" font-size="17" font-weight="700" fill="#2563eb">workflow</text>
-<text x="624" y="124" text-anchor="middle" font-size="17" font-weight="700" fill="#d97706">AI</text>
-<text x="500" y="106" text-anchor="middle" font-size="13" font-weight="700" class="t">Director-level</text>
-<text x="500" y="124" text-anchor="middle" font-size="13" font-weight="700" class="t">product role</text>
-<text x="500" y="146" text-anchor="middle" font-size="12" class="m">no extra provider</text>
-<text x="500" y="162" text-anchor="middle" font-size="12" class="m">workload</text>
-</g>
+<rect x="1" y="1" width="998" height="338" rx="14" class="panel" stroke-width="1.5"/>
+<circle cx="500" cy="102" r="90" fill="#d97706" fill-opacity=".13" stroke="#d97706" stroke-width="2"/><circle cx="568" cy="170" r="90" fill="#7c3aed" fill-opacity=".13" stroke="#7c3aed" stroke-width="2"/><circle cx="500" cy="238" r="90" fill="#0d9488" fill-opacity=".13" stroke="#0d9488" stroke-width="2"/><circle cx="432" cy="170" r="90" fill="#2563eb" fill-opacity=".13" stroke="#2563eb" stroke-width="2"/><text x="500" y="64" text-anchor="middle" font-size="15" font-weight="700" fill="#d97706">AI</text><text x="618" y="176" text-anchor="middle" font-size="15" font-weight="700" fill="#7c3aed">Product</text><text x="500" y="288" text-anchor="middle" font-size="15" font-weight="700" fill="#0d9488">Leadership</text><text x="380" y="176" text-anchor="middle" font-size="15" font-weight="700" fill="#2563eb">Technical</text><rect x="426" y="145" width="148" height="50" rx="25" fill="#ffffff" stroke="#1f2328" stroke-opacity=".25" stroke-width="1.5"/><text x="500" y="167" text-anchor="middle" font-size="15" font-weight="800" class="t">Strategic role</text><text x="500" y="185" text-anchor="middle" font-size="12" class="m">organizational impact</text><text x="60" y="96" text-anchor="start" font-size="12" font-weight="700" letter-spacing="1.5" class="m">OPEN TO</text><text x="60" y="130" text-anchor="start" font-size="16" font-weight="600" class="t">Director</text><text x="60" y="160" text-anchor="start" font-size="16" font-weight="600" class="t">Principal PM</text><text x="60" y="190" text-anchor="start" font-size="16" font-weight="600" class="t">Lead PM</text><text x="60" y="220" text-anchor="start" font-size="16" font-weight="600" class="t">Staff PM</text><text x="940" y="96" text-anchor="end" font-size="12" font-weight="700" letter-spacing="1.5" class="m">WHAT MATTERS</text><text x="940" y="130" text-anchor="end" font-size="16" font-weight="600" class="t">Strategic scope</text><text x="940" y="160" text-anchor="end" font-size="16" font-weight="600" class="t">Hands-on when needed</text><text x="940" y="190" text-anchor="end" font-size="16" font-weight="600" class="t">Org-wide impact</text><text x="940" y="220" text-anchor="end" font-size="16" font-weight="600" class="t">The work, not the title</text>
 </svg>
