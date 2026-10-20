@@ -64,10 +64,9 @@ Mini projects live in this repo.
 <table>
   <tr>
     <td width="50%" valign="top">
-      <img src="assets/icon-builderbuddy.svg" width="56" align="left" alt="">
-      <b>BuilderBuddy</b><br>
+      <a href = "https://github.com/allarogers/BuilderBuddy"> "<img src="assets/icon-builderbuddy.svg" width="56" align="left" alt=""></a>
+      <b><a href="https://github.com/allarogers/BuilderBuddy">BuilderBuddy</a></b><br>
       <sub>Helps homeowners decide which storage system to buy for their needs.</sub>
-      <!-- TODO: link to the project folder, e.g. <a href="./builderbuddy">BuilderBuddy</a> -->
     </td>
     <td width="50%" valign="top">
       <img src="assets/icon-drug360.svg" width="56" align="left" alt="">
