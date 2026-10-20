@@ -64,7 +64,7 @@ Mini projects live in this repo.
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href = "https://github.com/allarogers/BuilderBuddy"> "<img src="assets/icon-builderbuddy.svg" width="56" align="left" alt=""></a>
+      <a href = "https://github.com/allarogers/BuilderBuddy"><img src="assets/icon-builderbuddy.svg" width="56" align="left" alt=""></a>
       <b><a href="https://github.com/allarogers/BuilderBuddy">BuilderBuddy</a></b><br>
       <sub>Helps homeowners decide which storage system to buy for their needs.</sub>
     </td>
