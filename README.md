@@ -9,7 +9,7 @@
 </p>
 
 
-### I spent majority of my career in Healthcare technology, most recently at Natera - building internal software that runs the lab from sample receipt to report delivery. Now I'm on a deliberate break to go past "ask the LLM" and learn how models, retrieval (RAG) and tool protocols (MCP) fit together in real systems. Next up: a strategic product role where I can bring my technical, product, leadership and AI skills together. It's about the work and the impact. I dedicate myself to everything I do, and making a difference is what motivates me.
+**I spent majority of my career in Healthcare technology, most recently at Natera - building internal software that runs the lab from sample receipt to report delivery. Now I'm on a deliberate break to go past "ask the LLM" and learn how models, retrieval (RAG) and tool protocols (MCP) fit together in real systems. Next up: a strategic product role where I can bring my technical, product, leadership and AI skills together. It's about the work and the impact. I dedicate myself to everything I do, and making a difference is what motivates me.**
 
 <br>
 
@@ -22,19 +22,19 @@
     <td width="33%" valign="top">
       <h3>🧬 Direct to Consumer Genetics</h3>
       <sub><b>2005 – 2011</b> · DNA Direct · Medco</sub>
-      <p>At DNA Direct, a direct-to-consumer genetic testing startup, I was the <b>only technical person in the company</b> and owned the Java/Spring/Hibernate platform end to end: patient portal, e-commerce, internal CRM. I also represented the technology in Series B investor discussions.</p>
+      <p>At DNA Direct, a direct-to-consumer genetic testing startup, I was the <b>first technical hire in the company</b> and owned the entire technology stack: Content Management System, Website Analytics, Java/Spring/Hibernate platform end to end: patient portal, e-commerce, internal CRM. I also managed external IT vendors and represented the technology in Series B investor discussions.</p>
       <p>At Medco I moved into product and built <b>pharmacogenomic decision-support tools</b>.</p>
     </td>
     <td width="33%" valign="top">
       <h3>🏥 Healthcare from the inside</h3>
       <sub><b>2011 – 2019</b> · Tenet · Santa Clara Valley MC</sub>
-      <p>I wanted to understand why genetic tests weren't standard of care, so I went to the side of healthcare that moves the data.</p>
+      <p>I wanted to understand why genetic tests weren't standard of care, so I went to traditional healthcare - hospital and ambulatory care.</p>
       <p>I led interface work for <b>900+ providers</b> at Tenet, including the interface migration for the Tenet–Baylor Scott &amp; White merger. At Santa Clara Valley Medical Center I built <b>Epic integrations</b> for lab and device systems.</p>
     </td>
     <td width="33%" valign="top">
       <h3>🔬 Genomics Lab</h3>
       <sub><b>2019 – 2026</b> · TPM → Associate Director</sub>
-      <p>I joined Natera as a technical product manager and was promoted to <b>Associate Director, Technical Product Management</b>.</p>
+      <p>I joined Natera as a Technical Product Manager and was promoted to <b>Associate Director, Technical Product Management</b>.</p>
       <p>Seven years building the software that runs a genomics lab. Highlights in <a href="#-natera-accomplishments">Natera accomplishments</a>.</p>
     </td>
   </tr>
@@ -98,7 +98,7 @@ Mini projects live in this space.
     <td width="50%" valign="top">
       <img src="assets/icon-learn.svg" width="56" align="left" alt="">
       <b>Learning AI beyond the basics</b><br>
-      <sub>I started by asking an LLM to draw me a map of the field. That map became <a href="#">AI Landscape</a>, and the longer story is in <a href="#">My AI journey</a>.</sub>
+      <sub>I am studying for <a href="https://www.skills.google/paths/4525">Google's Professional Agentic Architect Certification</a>. Next up: exploring <a href="https://aws.amazon.com/training/certification/specializations/ai-driven-development-lifecycle/">AWS AI-DLC - AI-driven Development Lifecycle</a> - I believe this is the future of reducing AI chaos and increasing productivity.</sub>
     </td>
     <td width="50%" valign="top">
       <img src="assets/icon-lead.svg" width="56" align="left" alt="">
@@ -115,8 +115,6 @@ Mini projects live in this space.
 <img src="assets/venn.svg" width="100%" alt="Venn diagram: a strategic role at the overlap of technical, product, leadership and AI skills, focused on organizational impact. Open to Director, Principal, Lead and Staff PM roles.">
 
 **It's not about the title, it's about the work.** I'm looking for a strategic role, whether that's Director, Principal, Lead or Staff PM, where I can apply my full background: technical, product, leadership, and my newly learned AI skills. I don't shy away from hands-on work; what I care about is organizational impact.
-
-I care about getting new technology into the hands of providers **without adding to their workload**. I have a few ideas brewing in that space and I want to build them inside a team that ships.
 
 <p align="center">
   <a href="ABOUT_ME_LONG.md"><b>📖 Read the long version →</b></a>
