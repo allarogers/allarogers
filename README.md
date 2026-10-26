@@ -20,7 +20,7 @@
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h3>🧬 Direct to Consumer Genetics</h3>
+      <h3>🧬 Direct-to-Consumer Genetics</h3>
       <sub><b>2005 – 2011</b> · DNA Direct · Medco</sub>
       <p>At DNA Direct, a direct-to-consumer genetic testing startup, I was the <b>first technical hire in the company</b> and owned the entire technology stack: Content Management System, Website Analytics, Java/Spring/Hibernate platform end to end: patient portal, e-commerce, internal CRM. I also managed external IT vendors and represented the technology in Series B investor discussions.</p>
       <p>At Medco I moved into product and built <b>pharmacogenomic decision-support tools</b>.</p>
@@ -114,7 +114,7 @@ Mini projects live in this space.
 
 <img src="assets/venn.svg" width="100%" alt="Venn diagram: a strategic role at the overlap of technical, product, leadership and AI skills, focused on organizational impact. Open to Director, Principal, Lead and Staff PM roles.">
 
-**It's not about the title, it's about the work.** I'm looking for a strategic role, whether that's Director, Principal, Lead or Staff PM, where I can apply my full background: technical, product, leadership, and my newly learned AI skills. I don't shy away from hands-on work; what I care about is organizational impact.
+**It's not about the title, it's about the work.** I'm looking for a strategic role where I can apply my full background: technical, product, leadership, and my newly learned AI skills. I don't shy away from hands-on work; what I care about is organizational impact.
 
 <p align="center">
   <a href="ABOUT_ME_LONG.md"><b>📖 Read the long version →</b></a>
