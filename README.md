@@ -9,7 +9,14 @@
 </p>
 
 
-**I spent majority of my career in Healthcare technology, most recently at Natera - building internal software that runs the lab from sample receipt to report delivery. Now I'm on a deliberate break to go past "ask the LLM" and learn how models, retrieval (RAG) and tool protocols (MCP) fit together in real systems. Next up: a strategic product role where I can bring my technical, product, leadership and AI skills together. It's about the work and the impact. I dedicate myself to everything I do, and making a difference is what motivates me.**
+I spent majority of my career in Healthcare technology, most recently at Natera - building internal software that runs the lab from sample receipt to report delivery. Now I'm on a deliberate break to learn the AI landscape beyond using LLMs as a search engine to satisfy my curiosity. I break down AI knowledge in 3 levels:
+1. **Savvy LLM User** - prompt engineering and skill building to speed up my work.  This includes nifty skills to polish the PRD
+2. **AI Builder** - vibe coding and structuring skills and agents to benefit the others (beyond personal use, includes actually deploying the thing and thinking about users beyond yourself).
+3. **AI Leader** - the strategy behind the tools - planning out organizational efficiency and product enhancements through leveraging AI tools.
+
+I started on level 1, dabbling in level 2 (see my repos below), which inspired me to think about level 3 more deeply.
+
+**Next up:** a strategic product role where I can bring my technical, product, leadership and AI skills together. It's about the work and the impact. I dedicate myself to everything I do, and making a difference is what motivates me.
 
 <br>
 
