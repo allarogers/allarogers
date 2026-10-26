@@ -9,7 +9,7 @@
 </p>
 
 
-### I spent seven years building the software that runs a genomics lab, from the first Prospera launch to a multi-year rebuild of the core LIMS. Now I'm on a deliberate break to go past "ask the LLM" and learn how models, retrieval (RAG) and tool protocols (MCP) fit together in real systems. **This repo is where I build and document that.** Next up: a strategic product role where I can bring my technical, product, leadership and AI skills together. It's about the work and the impact, not the title.
+### I spent majority of my career in Healthcare technology, most recently at Natera - building internal software that runs the lab from sample receipt to report delivery. Now I'm on a deliberate break to go past "ask the LLM" and learn how models, retrieval (RAG) and tool protocols (MCP) fit together in real systems. Next up: a strategic product role where I can bring my technical, product, leadership and AI skills together. It's about the work and the impact. I dedicate myself to everything I do, and making a difference is what motivates me.
 
 <br>
 
@@ -20,7 +20,7 @@
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h3>🧬 Software for Genetics</h3>
+      <h3>🧬 Direct to Consumer Genetics</h3>
       <sub><b>2005 – 2011</b> · DNA Direct · Medco</sub>
       <p>At DNA Direct, a direct-to-consumer genetic testing startup, I was the <b>only technical person in the company</b> and owned the Java/Spring/Hibernate platform end to end: patient portal, e-commerce, internal CRM. I also represented the technology in Series B investor discussions.</p>
       <p>At Medco I moved into product and built <b>pharmacogenomic decision-support tools</b>.</p>
@@ -32,9 +32,9 @@
       <p>I led interface work for <b>900+ providers</b> at Tenet, including the interface migration for the Tenet–Baylor Scott &amp; White merger. At Santa Clara Valley Medical Center I built <b>Epic integrations</b> for lab and device systems.</p>
     </td>
     <td width="33%" valign="top">
-      <h3>🔬 Natera</h3>
+      <h3>🔬 Genomics Lab</h3>
       <sub><b>2019 – 2026</b> · TPM → Associate Director</sub>
-      <p>I joined as a technical product manager and was promoted to <b>Associate Director, Technical Product Management</b>.</p>
+      <p>I joined Natera as a technical product manager and was promoted to <b>Associate Director, Technical Product Management</b>.</p>
       <p>Seven years building the software that runs a genomics lab. Highlights in <a href="#-natera-accomplishments">Natera accomplishments</a>.</p>
     </td>
   </tr>
@@ -59,7 +59,7 @@
 
 ## 🛠️ What I'm working on now
 
-Mini projects live in this repo.
+Mini projects live in this space.
 
 <table>
   <tr>
@@ -84,10 +84,9 @@ Mini projects live in this repo.
       <sub>A skill toolkit to help with job searching.</sub>
     </td>
     <td width="50%" valign="top">
-      <img src="assets/icon-receipts.svg" width="56" align="left" alt="">
-      <b>DoorDash Receipt Scraper</b><br>
+      <a href="https://github.com/allarogers/DoorDashReceipts"><img src="assets/icon-receipts.svg" width="56" align="left" alt=""></a>
+      <b><a href="https://github.com/allarogers/DoorDashReceipts">DoorDash Receipt Scraper</a></b><br>
       <sub>Summarizes all DoorDash orders for an insurance claim.</sub>
-      <!-- TODO: link to the project folder -->
     </td>
   </tr>
 </table>
