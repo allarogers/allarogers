@@ -96,6 +96,13 @@ Mini projects live in this space.
       <sub>Summarizes all DoorDash orders for an insurance claim.</sub>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/allarogers/WorkflowOptimizer"><img src="assets/icon-workflow-optimizer.svg" width="56" align="left" alt=""></a>
+      <b><a href="https://github.com/allarogers/WorkflowOptimizer">Workflow Optimizer</a></b><br>
+      <sub>Maps workflows and simulates process changes to identify bottlenecks.</sub>
+    </td>
+  </tr>
 </table>
 
 ### Alongside the builds
